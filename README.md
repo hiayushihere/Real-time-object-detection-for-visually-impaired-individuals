@@ -74,8 +74,9 @@ A software-based assistive solution designed to empower visually impaired indivi
 
 ![Screenshot 2024-11-26 193154](https://github.com/user-attachments/assets/d8e02d76-22fa-4554-9c73-180261656473)
 ![Screenshot 2024-11-27 022654](https://github.com/user-attachments/assets/f9509be6-f6c8-4517-a206-1cfb5c05cc36)
+![Screenshot 2024-11-26 194206](https://github.com/user-attachments/assets/54e101a3-8e5e-4fd3-82e3-df75be1487b4)
 
-
+> **Note**: The above screenshots are results for 3 different objects shown to the camera.
 During tests, the system correctly identified objects (e.g., toothbrush, scissors, person) and provided accurate audio feedback:
 
 * "Toothbrush detected at 0.33 meters to your left."
